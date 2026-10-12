@@ -1,0 +1,16 @@
+{
+  "status": "success",
+  "count": 1,
+  "alerts": [
+    {
+      "timestamp": "2026-10-12T20:00:00.000+0000",
+      "agent": { "name": "LAB-WINDOWS-AGENT" },
+      "rule": {
+        "id": "100801",
+        "level": 7,
+        "description": "HEXA-Vision: Unknown face detected (example)."
+      },
+      "data": { "recognition_result": "unknown" }
+    }
+  ]
+}
